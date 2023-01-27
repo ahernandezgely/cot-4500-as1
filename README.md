@@ -1,5 +1,3 @@
-# cot-4500-as1
-
 # Assignment 1
 
 1. The libraries needed to run this python script are included in a file called 'requirements.txt'
